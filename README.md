@@ -10,7 +10,7 @@ Für Randwertprobleme müssen zusätzlich zu den Differentialgleichungen auch Ra
 
 ## Anwendungsmöglichkeit
 
-In der folgenden Arbeit werden skalere Randwertprobleme für gewöhliche Differentialgelichungen zweiter Ordnung numerisch gelöst. Folgendes Problem wird hier verwendet:
+In der folgenden Arbeit werden skalare Randwertprobleme für gewöhnliche Differentialgleichungen zweiter Ordnung numerisch gelöst. Folgendes Problem wird hier behandelt:
 
 $$\frac{d^2}{dt^2}y(t) = a(t) y(t) + b(t)$$
 
